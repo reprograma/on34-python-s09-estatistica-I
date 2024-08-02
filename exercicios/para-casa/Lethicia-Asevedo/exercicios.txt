@@ -1,0 +1,26 @@
+Exercícios Obrigatórios
+_______________________________________________
+Exercício 1: Identificação de Tipos de Dados
+_______________________________________________
+Classifique os seguintes dados em qualitativos (nominais ou ordinais) ou
+quantitativos (discretos ou contínuos):
+
+ Número de irmãos  - Variável discreta 
+ Notas de um exame (A, B, C, D, F) - Variável ordinal
+ Altura de uma pessoa - Variável contínua
+ Cores favoritas - Variável nominal
+ Salário anual - Variável contínua
+
+***********************************************************************************
+_______________________________________________
+Exercício 2: Classificação de Variáveis
+_______________________________________________
+Identifique se as variáveis a seguir são qualitativas nominais, qualitativas
+ordinais, quantitativas discretas ou quantitativas contínuas:
+
+ Cor dos olhos (azul, castanho, verde) - Variável qualitiva nominal 
+ Nível de satisfação em uma escala de 1 a 5 - Variável quantitativa discreta
+ Número de carros em uma garagem - Variável quantitativa discreta
+ Temperatura medida em graus Celsius - Variável quantitativa contínua
+ Classificação de filmes (ótimo, bom, regular, ruim) - Variável qualitativa discreta
+ Peso de um saco de arroz - Variável quantitativa contínua
